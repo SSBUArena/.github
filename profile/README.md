@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="arena-logo.svg" alt="SSBU Arena" width="320">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="arena-logo.svg">
+  <img src="arena-logo-light.svg" alt="SSBU Arena" width="320">
+</picture>
 
 ### Super Smash Bros. Ultimate on PC, built for competitive online play.
 
